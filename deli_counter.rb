@@ -10,10 +10,11 @@ def line(katz_deli)
       name_with_numbers.push("#{index + 1}. #{name}")
     end 
     puts "The line is currently: #{name_with_numbers.join(" ")}"
-end
+  end
 end 
 
-def take_a_number()
+def take_a_number(katz_deli, name)
+  
 end
 
 
