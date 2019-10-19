@@ -11,6 +11,7 @@ def line(katz_deli)
     end 
     puts "The line is currently: #{name_with_numbers.join(" ")}"
 end
+end 
 
 
 
